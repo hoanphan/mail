@@ -1,0 +1,80 @@
+
+.top-navigation
+{
+    height: 71px;
+    background: #f1f1f1;
+    border-bottom: 1px solid #e5e5e5;
+    overflow: hidden;
+    padding-top: 17px;
+    padding-bottom: 44px;
+}
+.imager-logo img
+{
+    height: 36px;
+    width: 112px;
+}
+.main
+{
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 23px;;
+}
+.main h1 {
+    font-family: 'Open Sans', arial;
+    color: #5e5e5e;
+    font-size: 30px;
+    font-weight: normal;
+    margin-top: 27px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.clearfix{
+    width: 100%;
+    font-family: 'Open Sans', arial;
+    color: #737373;
+}
+ h2
+{
+
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 15px;
+
+}
+p {
+    font-size: 13px;
+    margin-bottom: 40px;
+
+}
+.logo-strip
+{
+    align-items: center;
+}
+.content-left
+{
+    text-align: center;
+}
+.content-right{
+    margin: 0;
+    padding: 25px;
+    background: #f1f1f1;
+    border: 1px solid #e5e5e5;
+}
+.label{
+    margin: 0 0 .5em;
+    display: inline-block;
+    color: black;
+    font-size: 10pt;
+}
+.input{
+    width: 48%;
+    float: left;
+    padding-right: 2%;
+}
+.nameinput::-webkit-input-placeholder { text-align:right; }
+.dayOfBirht
+{
+    float: left;
+    margin-left: 2px;
+}
